@@ -29,6 +29,8 @@ Before installing, ensure you have the following installed on your system:
 
 - **Neovim** [(v0.9.0 or later)](https://www.reddit.com/r/debian/comments/188d3wc/neovim_on_debian/)
 - **Git**
+- **NodeJs**
+- **npm**
 - **Ripgrep** (required for Telescope live grep).
 - **C Compiler** (GCC or Clang, required for Tree-sitter parsers).
 - **A Nerd Font** (e.g., [JetBrainsMono Nerd Font](https://www.nerdfonts.com/)) for icons.
